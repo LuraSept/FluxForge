@@ -1,0 +1,7 @@
+aiogram
+vosk
+gigachat
+pyrogram
+tgcrypto
+requests
+pydub
